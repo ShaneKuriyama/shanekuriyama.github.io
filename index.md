@@ -2,6 +2,8 @@
 商社マン  
 プログラミング勉強中
 
+![N予備校ロゴ](ab95671b-private.png)
+
 ## Profile
 - Shane
 - Tokyo
