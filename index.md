@@ -24,3 +24,4 @@
 # History
 - 2020年5月N予備校入校
 
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
